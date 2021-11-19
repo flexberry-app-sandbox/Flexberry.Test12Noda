@@ -1,0 +1,15 @@
+﻿{
+  "newForm": "i-i-s-test12-noda-test-main-e",
+  "editForm": "i-i-s-test12-noda-test-main-e",
+  "external": false,
+  "caption": "Test main",
+  "name": "IISTest12NodatestMainL",
+  "className": "testMainL",
+  "attrs": [],
+  "projections": [
+    {
+      "modelName": "i-i-s-test12-noda-test-main",
+      "modelProjection": "testMainL"
+    }
+  ]
+}
